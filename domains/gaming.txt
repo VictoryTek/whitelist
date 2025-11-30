@@ -57,6 +57,24 @@ pockethost.io
 *.pockethost.io
 
 # ========================
+# Steam
+# ========================
+steampowered.com
+*.steampowered.com
+steamcommunity.com
+*.steamcommunity.com
+steamcontent.com
+*.steamcontent.com
+steamstatic.com
+*.steamstatic.com
+steamusercontent.com
+*.steamusercontent.com
+steamserver.net
+*.steamserver.net
+steamcontent.com
+steam-chat.com
+
+# ========================
 # Common CDNs used by game launchers
 # ========================
 cloudflare.com
