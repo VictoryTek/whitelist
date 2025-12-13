@@ -1,0 +1,80 @@
+#===========================================#
+#===============     GAMING     ============#
+#===========================================#
+
+#=============================
+# Blizzard / Battle.net / WoW
+#=============================
+*.battle.net
+*.blizzard.com
+*.bnetstorage.com
+*.blz-contentstack.com
+*.cdn.blizzard.com
+api.blizzard.com
+links.battle.net
+us.actual.battle.net
+eu.actual.battle.net
+kr.actual.battle.net
+
+# =====================================
+# Minecraft (Java + Bedrock + Services)
+# =====================================
+*.minecraft.net
+*.mojang.com
+*.mojangstudios.com
+*.minecraft-services.net
+*.minecraftservices.com
+*.rtep.msgamestudios.com
+
+#=================================
+# Microsoft / Xbox auth (required)
+#=================================
+*.xboxlive.com
+*.xboxservices.com
+*.playfabapi.com
+login.live.com
+user.auth.xboxlive.com
+presence.mp.microsoft.com
+
+#================
+# Realms backend
+#================
+*.pockethost.io
+
+# ======
+# Steam
+# ======
+*.steampowered.com
+*.steamcommunity.com
+*.steamcontent.com
+*.steamstatic.com
+*.steamusercontent.com
+*.steamserver.net
+*.steam-chat.com
+
+# =================================================
+# Windows connectivity checks (safe & useful)
+# =================================================
+*.msftncsi.com
+*.msedge.net
+
+
+
+#===========================================#
+#===============     CODING     ============#
+#===========================================#
+
+#==================
+# GitHub / Copilot
+#==================
+*.github.com
+*.copilot-proxy.githubusercontent.com
+*.copilot-telemetry.githubusercontent.com
+
+#=========================
+# Dev telemetry (explicit)
+#=========================
+v1.telemetry.coder.com
+default.exp-tas.com
+mobile.events.data.microsoft.com
+westus-0.in.applicationinsights.azure.com
